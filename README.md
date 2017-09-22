@@ -7,3 +7,7 @@ The changes to the master are inclusive for accomplishment of the goals in the "
 # hello-world
 Hello-World project
 Hi project team ... hello-world is on the brink of ... code writing ...
+
+# hello-world
+Hello-World project
+Hi project team ... the hello-world project is making progress ... 
